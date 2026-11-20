@@ -1,7 +1,7 @@
 B2Metric Web SDK
 ===================
-Version: 1.0.120
-Build Date: 2026-11-19
-Build Time: 05:46:44
+Version: 1.0.121
+Build Date: 2026-11-20
+Build Time: 15:21:12
 Build Mode: production
 ===================
